@@ -3,4 +3,6 @@ __pycache__/
 *.pt
 input_images/
 output_images/
+temp_input/
+scratch/
 .env
